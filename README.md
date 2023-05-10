@@ -1,4 +1,4 @@
-# Hi there 👋 I'M KHAKED
+# Hi there 👋 I'M KHALED
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHALEDKHLYAN&show_icons=true&theme=radical)
 
