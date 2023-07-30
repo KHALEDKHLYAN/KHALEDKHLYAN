@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to Machine Learning and intergrating with Mobile-Applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on LeetCode & CodeWars and read tech articles.
-- 📫 How to reach me: &nbsp; [![Whats_App Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/GRFAC5AUOBLVA1)
+- 📫 How to reach me: &nbsp; [![Whats_App Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/+254701506538)
 ---
 ### 🛠 &nbsp;Languages and Tools :
 
