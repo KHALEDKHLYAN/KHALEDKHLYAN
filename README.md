@@ -29,11 +29,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KHALEDKHLYAN&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=KHALEDKHLYAN&theme=dark&background=000000&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDKHLYAN&layout=compact&theme=vision-friendly-dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDKHLYAN&layout=compact&theme=vision-friendly-dark)](https://github.com/KHALEDKHLYAN/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KHALEDKHLYAN)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+### 🥷 &nbsp; My Daily-Strikes :
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KHALEDKHLYAN&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
