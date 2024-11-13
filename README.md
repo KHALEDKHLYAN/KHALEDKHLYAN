@@ -39,6 +39,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 🥷 &nbsp; My Daily-Strikes :
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?KHALEDKHLYAN=@KHALEDKHLYAN&theme=dark&background=000000)](https://github.com/KHALEDKHLYAN/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KHALEDKHLYAN&theme=dark&background=000000)](https://github.com/KHALEDKHLYAN/github-readme-stats)
 
 ---
