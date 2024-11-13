@@ -36,8 +36,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDKHLYAN&layout=compact&theme=vision-friendly-dark" />
 </a>
 
+
 ---
 ### 🥷 &nbsp; My Daily-Strikes :
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KHALEDKHLYAN&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?KHALEDKHLYAN=@KHALEDKHLYAN&theme=dark&background=000000)](https://github.com/KHALEDKHLYAN/github-readme-stats)
 
 ---
