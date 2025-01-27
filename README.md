@@ -2,7 +2,7 @@
 
 ### :BEHING_THE_ALGORITH: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lancaster.
 
 - 🔭 I’m working as a Software Engineer and contributing to Machine Learning and intergrating with Mobile-Applications.
 - 🌱 Exploring Technical Content Writing.
